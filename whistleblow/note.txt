@@ -1,0 +1,5 @@
+Access s3://ad586b62e3b5921bd86fe2efa4919208 This is open as long as you have an AWS account. I finally made one...
+Download the files then use "find" to find anything that isn't exactly 30 bytes.
+You get the credentials from there.
+Letter tells you the time they signed for.
+That's it.
