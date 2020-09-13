@@ -1,6 +1,9 @@
 # CSAW-CTF-Quals-2020
 **Team: Mad H@tters**  
   
+### Scoreboard (Everyone | Undergraduate, US-Canada Region)
+![Top 10 scoreboard of all teams](scoreboard-everyone.PNG)
+![Top 10 scoreboard of undergraduate teams in USA and Canada](scoreboard-undergrad-usa-can.PNG)
 
 ## How to Contribute
 1. Solve a challenge
