@@ -12,6 +12,7 @@
 ```
 # [Full Challenge Name]
 
+[Category]  
 [NUM] Points  
 Contributor: [Names who solved this challenge]
 ```
