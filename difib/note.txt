@@ -1,0 +1,7 @@
+Difib is literally Bifid Cipher backwards so that's a big hint
+
+I started doing this in Java (e.g. Difib.java) but then realized that it was much easier to do it in Python so I found the keys in Java (basically removing anything that's not alphabetical from the rambles and making sure they are 26 characters) and decoded it using Bifid.
+
+I ended up getting "ust some unnecessary te t that holds absolutely no meaning whatsoever and bears no significance to you in any way" so I filled in the x's and j's to get "just some unnecessary text that holds absolutely no meaning whatsoever and bears no significance to you in any way"
+
+Just nc that and get the flag
